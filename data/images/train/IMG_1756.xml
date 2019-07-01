@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_1756.jpg</filename>
+	<path>C:\Users\Eileen\Documents\_WeedDetection\downsized_images\weed1\train\IMG_1756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weed1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>134</ymin>
+			<xmax>415</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
